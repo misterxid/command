@@ -361,7 +361,5 @@ fi
 if [ $sf = 11 ] || [ $sf = 11 ]
 then
 clear
-figlef terimakasih | lolcat
-sleep 1
 exit
 fi
